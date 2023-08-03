@@ -27,3 +27,6 @@ SRR5621564_1.fastq.gz   SRR5621564_2.fastq.gz   dwe1blood
 SRR5621574_1.fastq.gz   SRR5621574_2.fastq.gz   dwe2blood
 
 #    2.Run software
+
+        Usage : ./RNAseqtools Reference_Genome Samplelist Gtf_annotation
+
