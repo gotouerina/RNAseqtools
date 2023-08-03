@@ -1,5 +1,9 @@
 # RNAseqtools
 
+Download by type :
+
+        wget https://github.com/gotouerina/RNAseqtools/releases/download/v1.0/RNAseqtools
+
 #  1.Create List
 
     ll | awk '{print $9}' | grep  '1.fastq.gz' > ../left.txt 
