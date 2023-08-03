@@ -3,6 +3,7 @@
 Download by type :
 
         wget https://github.com/gotouerina/RNAseqtools/releases/download/v1.0/RNAseqtools
+        chmod 755 RNAseqtools
 
 #  1.Create List
 
