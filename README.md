@@ -46,3 +46,8 @@ if success, will print :
         .....6.prepDE.sh.....has created
 
 then run by order will success.
+
+
+#        3. DEseq2 and plot
+
+Read pipeline.r I published before: https://github.com/gotouerina/Comparative-genomics-script/blob/main/RNAanalysis/pipeline.r
