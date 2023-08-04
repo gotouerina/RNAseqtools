@@ -4,8 +4,8 @@ Only fit in Linux, never test on Windows and Mac
 
 Download by type :
 
-        wget https://github.com/gotouerina/RNAseqtools/releases/download/v1.0/RNAseqtools
-        chmod 755 RNAseqtools
+        wget https://github.com/gotouerina/RNAseqtools/releases/download/v1.0/RNAseqtools.exe
+        chmod 755 RNAseqtools.exe
 
 #  1.Create List
 
